@@ -1,13 +1,11 @@
 {
-    "name": "symfony/webapp-pack",
+    "name": "sarim/symfony-webapp-lite-pack",
     "type": "symfony-pack",
     "license": "MIT",
-    "description": "A webapp pack on top of the default skeleton",
+    "description": "A lite version of official symfony webapp pack",
     "require": {
         "symfony/asset": "*",
-        "symfony/asset-mapper": "*",
         "symfony/debug-pack": "*",
-        "symfony/doctrine-messenger": "*",
         "symfony/expression-language": "*",
         "symfony/form": "*",
         "symfony/http-client": "*",
@@ -22,12 +20,10 @@
         "symfony/profiler-pack": "*",
         "symfony/security-bundle": "*",
         "symfony/serializer-pack": "*",
-        "symfony/stimulus-bundle": "*",
         "symfony/string": "*",
         "symfony/test-pack": "*",
         "symfony/translation": "*",
         "symfony/twig-pack": "*",
-        "symfony/ux-turbo": "*",
         "symfony/validator": "*",
         "symfony/web-link": "*"
     },
